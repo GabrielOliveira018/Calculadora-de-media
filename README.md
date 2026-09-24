@@ -5,6 +5,8 @@
 
 # copie o codigo vá algum app que de para programar em python e cole e execute.
 
+# eu mnesmo que fiz.
+
 def calcular_media( nota1, nota2 ):
     return ( nota1 + nota2 )/ 2
 
@@ -20,4 +22,3 @@ else:
     print("REPROVADO")
 
 
-# Autor eu mesmo #
