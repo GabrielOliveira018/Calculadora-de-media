@@ -3,7 +3,7 @@
 
 # python versao: 3.14 #
 
-#copie o codigo vá algum app que de para programar em python e cole e execute. #
+# copie o codigo vá algum app que de para programar em python e cole e execute. #
 
 def calcular_media( nota1, nota2 ):
     return ( nota1 + nota2 )/ 2
