@@ -7,6 +7,11 @@
 
 # eu mesmo que fiz.
 
+<img width="446" height="806" alt="image" src="https://github.com/user-attachments/assets/1591b8f5-3eaa-4cc9-8b10-3ab5f386d7c7" />
+
+
+CODIGO:
+
 def calcular_media( nota1, nota2 ):
     return ( nota1 + nota2 )/ 2
 
@@ -20,6 +25,7 @@ if media >= 7.0:
     print("APROVADO")
 else:
     print("REPROVADO")
+
 
 
 📫 Como me encontrar
